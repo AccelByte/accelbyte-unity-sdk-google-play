@@ -1,0 +1,19 @@
+{
+    "name": "com.accelbyte.UnitySDKGooglePlayGames",
+    "rootNamespace": "",
+    "references": [
+        "GUID:95c7e4cb1e3deab4c9a29517591920ba",
+        "GUID:4eed5c8315481b242850b8c63ebdde81"
+    ],
+    "includePlatforms": [
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
